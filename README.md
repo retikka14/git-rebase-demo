@@ -8,6 +8,7 @@ A simple Python calculator project demonstrating basic arithmetic operations.
 - Subtraction
 - Multiplication
 - Division
+- Clear and easy-to-use calculator functions
 
 ## Git Workflow
 
