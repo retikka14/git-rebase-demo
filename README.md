@@ -19,6 +19,10 @@ This project was created using Git with:
 - Multiple initial commits
 - Interactive rebase for cleaning up commit history
 
+## Testing
+
+The calculator functions are tested using Python unit tests.
+
 ## Final Commits
 
 1. Add calculator operations
